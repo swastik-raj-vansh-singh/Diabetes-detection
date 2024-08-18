@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Nov 28 11:52:37 2019
+@author: swastik
 
-@author: shruti
 """
 
 #CLASSIFICATION MODELS
